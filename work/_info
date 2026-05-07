@@ -1,0 +1,195 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vfull_adder
+Z0 !s110 1778135969
+!i10b 1
+!s100 Ok1dNT^YC`e>Dd358ehQh1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcA]MNlzz0kGb>[L18V^Ji0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/FPGA_demo/full_adder_2b
+w1778130139
+8C:/FPGA_demo/full_adder_2b/full_adder.v
+FC:/FPGA_demo/full_adder_2b/full_adder.v
+!i122 82
+L0 12 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1778135969.000000
+!s107 C:/FPGA_demo/full_adder_2b/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/full_adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vfull_adder_2b
+R0
+!i10b 1
+!s100 SIom?@bU_TUE@CGOTb_dW1
+R1
+I=@lNQEbIhX_jn[;We1G5A2
+R2
+R3
+w1778130159
+8C:/FPGA_demo/full_adder_2b/full_adder_2b.v
+FC:/FPGA_demo/full_adder_2b/full_adder_2b.v
+!i122 83
+L0 12 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/full_adder_2b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/full_adder_2b.v|
+!i113 1
+R6
+R7
+vfull_adder_4b
+R0
+!i10b 1
+!s100 ndhCmDo<YKVUg[ZZ5chkI2
+R1
+I>jDNZTb;>4g2TFCUjX=;e1
+R2
+R3
+w1778135949
+8C:/FPGA_demo/full_adder_2b/full_adder_4b.v
+FC:/FPGA_demo/full_adder_2b/full_adder_4b.v
+!i122 88
+L0 12 43
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/full_adder_4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/full_adder_4b.v|
+!i113 1
+R6
+R7
+vhalf_adder
+R0
+!i10b 1
+!s100 2A<XF8RL@`MF@I8k7k[H?3
+R1
+IgzPz1AREmYnC=lVj:;jdE1
+R2
+R3
+w1778130121
+8C:/FPGA_demo/full_adder_2b/half_adder.v
+FC:/FPGA_demo/full_adder_2b/half_adder.v
+!i122 84
+L0 12 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/half_adder.v|
+!i113 1
+R6
+R7
+vtb_full_adder
+R0
+!i10b 1
+!s100 ZlWnOga9XX:T4H[YRU0QT0
+R1
+I`B[b@nJ0M6M8OgL@[Wk`51
+R2
+R3
+w1778121054
+8C:/FPGA_demo/full_adder_2b/tb_full_adder.v
+FC:/FPGA_demo/full_adder_2b/tb_full_adder.v
+!i122 85
+L0 2 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/tb_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/tb_full_adder.v|
+!i113 1
+R6
+R7
+vtb_full_adder_2b
+R0
+!i10b 1
+!s100 Eo93X5^;RD>ch0HKoTYfT3
+R1
+I;k@L?:BPbEQWZE=<DN=gK0
+R2
+R3
+w1778123157
+8C:/FPGA_demo/full_adder_2b/tb_full_adder_2b.v
+FC:/FPGA_demo/full_adder_2b/tb_full_adder_2b.v
+!i122 86
+L0 2 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/tb_full_adder_2b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/tb_full_adder_2b.v|
+!i113 1
+R6
+R7
+vtb_full_adder_4b
+R0
+!i10b 1
+!s100 M4=BbCT^fR;EJ=Q_Ic7792
+R1
+IL:`OIZ;3A@H8KRi^DBog80
+R2
+R3
+w1778135145
+8C:/FPGA_demo/full_adder_2b/tb_full_adder_4b.v
+FC:/FPGA_demo/full_adder_2b/tb_full_adder_4b.v
+!i122 89
+L0 17 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/tb_full_adder_4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/tb_full_adder_4b.v|
+!i113 1
+R6
+R7
+vtb_half_adder
+R0
+!i10b 1
+!s100 M2@bXYK<]3ZW8Aj96IYf]3
+R1
+IRYM47enKb7iAkE_bUi79U2
+R2
+R3
+w1778121091
+8C:/FPGA_demo/full_adder_2b/tb_half_adder.v
+FC:/FPGA_demo/full_adder_2b/tb_half_adder.v
+!i122 87
+L0 2 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_demo/full_adder_2b/tb_half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/full_adder_2b/tb_half_adder.v|
+!i113 1
+R6
+R7

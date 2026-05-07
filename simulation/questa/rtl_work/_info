@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Mac/Home/Desktop/Inst_Proc/full_adder_2b/simulation/questa
+vhalf_adder
+!s110 1778117573
+!i10b 1
+!s100 2A<XF8RL@`MF@I8k7k[H?3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I[[ze77N5;fmihL88[i2h53
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1778117463
+8C:/Mac/Home/Desktop/Inst_Proc/full_adder_2b/half_adder.v
+FC:/Mac/Home/Desktop/Inst_Proc/full_adder_2b/half_adder.v
+!i122 0
+L0 12 18
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1778117573.000000
+!s107 C:/Mac/Home/Desktop/Inst_Proc/full_adder_2b/half_adder.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Mac/Home/Desktop/Inst_Proc/full_adder_2b|C:/Mac/Home/Desktop/Inst_Proc/full_adder_2b/half_adder.v|
+!i113 1
+o-work work
+!s92 -work work +incdir+C:/Mac/Home/Desktop/Inst_Proc/full_adder_2b
+tCvgOpt 0
